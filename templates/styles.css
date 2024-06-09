@@ -1,0 +1,29 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff; /* Full white background */
+    font-family: Arial, sans-serif;
+}
+
+.centered-container {
+    border: 5px dotted blue; /* Dotted blue border */
+    padding: 20px;
+    background-color: #ffffff; /* White background inside the border */
+    text-align: center;
+}
+
+.content {
+    font-size: 1.5em; /* Larger font size */
+}
+
+h1 {
+    margin: 0;
+    font-size: 2em; /* Even larger font size for the title */
+}
+
+p {
+    font-size: 1.25em;
+}
