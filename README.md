@@ -37,6 +37,7 @@ print(technologies)
 Ensure that all necessary libraries are installed (`pandas`, `requests`, `BeautifulSoup`).
 
 **Integrated with Flask**
+
 Input page:
 ![image](https://github.com/vr-jayashree5443/Technology-Lookup-Data-Cleaning-JSON-and-Data-Analysis/assets/128161257/a2b985dd-61b4-4810-b026-109ec8dd69f1)
 
